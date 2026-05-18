@@ -1,2 +1,7 @@
-# demo-tassinari
-Demo web para TASSINARI — diseñada por eterlab.
+# TASSINARI
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
